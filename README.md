@@ -2,11 +2,10 @@
 
 Code in the run_analyss.R does the following:
 
-- Loads both the training and test datasets
-- Loads the activity and subject data for each dataset
-- Load the  feature info
-- Keeps only those columns with means and standard deviations
-- Merges train and test data
-- Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
+- Merges the training and the test sets to create one data set.
+- Extracts only the measurements on the mean and standard deviation for each measurement. 
+- Uses descriptive activity names to name the activities in the data set
+- Appropriately labels the data set with descriptive variable names. 
+- From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 How the final data looks can be found in tidy.txt
