@@ -3,7 +3,7 @@
 - subject
 - activity level
 
-### Measurements that we have are:
+### Measurements in our data are:
 
 - tBodyAccMeanX 
 - tBodyAccMeanY 
