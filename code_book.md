@@ -1,7 +1,7 @@
 ### Identifiers in our data are:
 
 - subject
--activity level
+- activity level
 
 ### Measurements that we have are:
 
